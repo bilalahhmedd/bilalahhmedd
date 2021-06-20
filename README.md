@@ -1,0 +1,10 @@
+- 👋 Hi, I’m python developer with expertise in data engineering and machine learning. 
+- 👀 I’m interested in working with startups to solve real world problems.
+- 🌱 I’m currently working as full time freelancer on upwork.
+- 💞️ I’m looking to collaborate on big data projects.
+- 📫 You can reach me on bilal.ahhmedd@gmail.com.
+
+<!---
+bilalahhmedd/bilalahhmedd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
